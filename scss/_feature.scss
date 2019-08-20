@@ -180,11 +180,12 @@
 					}
 					.media{
 						.d-flex{
-							padding-right: 100px;
+							padding-right: 200px;
 							p{
 								color: rgba(255, 255, 255, .75);
 								margin-bottom: 0px;
 								padding-top: 20px;
+								min-width: 200px;
 							}
 						}
 						.media-body{
